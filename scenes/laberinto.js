@@ -38,10 +38,13 @@ export default class Laberinto extends Phaser.Scene {
 
     this.cursors = this.input.keyboard.createCursorKeys();
     this.cameras.main.startFollow(this.player)
+   
   }
 
+
+
   update() {
-    const speed = 150;
+    const speed = 200;
     this.player.setVelocity(0);
 
     if (this.cursors.left.isDown) this.player.setVelocityX(-speed);
