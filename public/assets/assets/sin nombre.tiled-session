@@ -1,0 +1,112 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Mapa 2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "JSON map files (*.tmj *.json)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#MAPA 3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#MAPAA 3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/milag/OneDrive/Desktop/TP-LABERINTO/TP-LABERINTO0/public/assets/Mapa 3.json": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2400,
+                "y": 2400.1666666666665
+            }
+        },
+        "C:/Users/milag/OneDrive/Desktop/TP-LABERINTO/TP-LABERINTO0/public/assets/Mapa 3.json#asessts 3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/milag/OneDrive/Desktop/mapa.json": {
+            "scale": 5.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2400,
+                "y": 2399.909090909091
+            }
+        },
+        "C:/Users/milag/OneDrive/Desktop/mapa.json#assets": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/milag/OneDrive/Desktop/mapa.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7688,
+                "y": 5232
+            }
+        },
+        "C:/Users/milag/OneDrive/Desktop/mapa.tmx#assets": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Mapa 2.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2400,
+                "y": 2401.5151515151515
+            }
+        },
+        "Mapa 2.tmx#aseets nuevos": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Mapa 3.json": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 100,
+                "y": 56
+            }
+        },
+        "Mapa 3.json#MAPA 3": {
+            "scaleInDock": 1
+        },
+        "Mapa 3.json#MAPAA 3": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/milag/OneDrive/Desktop/TP-LABERINTO/TP-LABERINTO0/public/assets",
+    "last.imagePath": "C:/Users/milag/OneDrive/Desktop/assets",
+    "map.height": 150,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.width": 150,
+    "openFiles": [
+        "C:/Users/milag/OneDrive/Desktop/mapa.json",
+        "Mapa 2.tmx",
+        "C:/Users/milag/OneDrive/Desktop/TP-LABERINTO/TP-LABERINTO0/public/assets/Mapa 3.json"
+    ],
+    "project": "sin nombre.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/milag/OneDrive/Desktop/mapa.json",
+        "C:/Users/milag/OneDrive/Desktop/TP-LABERINTO/TP-LABERINTO0/public/assets/Mapa 3.json",
+        "Mapa 2.tmx",
+        "Mapa 3.json",
+        "C:/Users/milag/OneDrive/Desktop/mapa.tmx"
+    ],
+    "tileset.embedInMap": true
+}

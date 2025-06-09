@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\milag\\OneDrive\\Desktop\\assets\\fondo tp final",
+  "images": [
+    {
+      "name": "pared nueva 3.png",
+      "path": "C:/Users/milag/OneDrive/Desktop/assets/pared nueva 3.png",
+      "folder": ""
+    },
+    {
+      "name": "piso nuevo 3.png",
+      "path": "C:/Users/milag/OneDrive/Desktop/assets/piso nuevo 3.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "assest nuevos 3",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\milag\\OneDrive\\Desktop\\assets\\fondo tp final",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
